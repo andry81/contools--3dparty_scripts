@@ -1,0 +1,3 @@
+# In this example, my cwRsync dir is located at: "C:/Program Files (x86)/cwRsync"
+# Filename: "C:/Program Files (x86)/cwRsync/etc/fstab"
+none /cygdrive cygdrive binary,posix=0,user,noacl 0 0
